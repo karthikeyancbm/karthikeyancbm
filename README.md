@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @karthikeyancbm
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data science
+- 👋 Hi, I’m # KARTHIKEYAN MANI
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on python
 - 📫 you can reach me karthikeyancbm1982@gmail.com
 
