@@ -1,4 +1,4 @@
-- 👋 Hi, I’m # KARTHIKEYAN MANI
+- 👋 Hi, I’m  KARTHIKEYAN MANI
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on python
